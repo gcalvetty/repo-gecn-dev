@@ -81,19 +81,32 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    GECN-Dev
                 </div>
-
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://gcalvetty.wordpress.com/">Blog</a>
+                    <a href="https://www.facebook.com/GecnDev/">FaceGecnDev</a>                   
+                    <a href="https://github.com/gcalvetty">GitHub</a>                    
                 </div>
+                <div class="col">
+                        <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="vertical" data-theme="light" data-vanity="gcalvetty"><a class="LI-simple-link" href='https://bo.linkedin.com/in/gcalvetty?trk=profile-badge'>Guillermo Elias Calvetty Nuñez</a>
+                        </div>                
+                <div>
+                <div class="col">
+                    <a href="https://twitter.com/gcalvetty">Twitter</a>
+                    <a href="https://www.freelancer.com/u/gcalvetty">Freelance</a>
+                    <a href="https://www.flickr.com/people/58287627@N07/">Flickr</a>
+                    <a href="https://elgg.org/profile/gcalvetty">Elgg</a>
+                    <a href="https://soundcloud.com/gcalvetty">Soundcloud</a>
+                    <a href="http://gcalvetty.blogspot.com/2010/?m=0"> Blog 2</a>
+                    <a href="https://www.myfxbook.com/es/members/gcalvetty">MX</a>
+                </div> 
+                
+                
+
+
             </div>
         </div>
     </body>
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </html>
